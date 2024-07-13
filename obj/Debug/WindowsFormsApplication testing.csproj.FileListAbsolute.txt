@@ -1,0 +1,163 @@
+C:\Users\Windows 10 Pro\Desktop\AMIGOS\WindowsFormsApplication testing\WindowsFormsApplication testing\bin\Debug\WindowsFormsApplication testing.exe.config
+C:\Users\Windows 10 Pro\Desktop\AMIGOS\WindowsFormsApplication testing\WindowsFormsApplication testing\bin\Debug\WindowsFormsApplication testing.exe
+C:\Users\Windows 10 Pro\Desktop\AMIGOS\WindowsFormsApplication testing\WindowsFormsApplication testing\bin\Debug\WindowsFormsApplication testing.pdb
+C:\Users\Windows 10 Pro\Desktop\AMIGOS\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication testing.csprojResolveAssemblyReference.cache
+C:\Users\Windows 10 Pro\Desktop\AMIGOS\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.Properties.Resources.resources
+C:\Users\Windows 10 Pro\Desktop\AMIGOS\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication testing.csproj.GenerateResource.Cache
+C:\Users\Windows 10 Pro\Desktop\AMIGOS\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication testing.exe
+C:\Users\Windows 10 Pro\Desktop\AMIGOS\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication testing.pdb
+C:\Users\Windows 10 Pro\Desktop\AMIGOS\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.Form2.resources
+C:\Users\Windows 10 Pro\Desktop\AMIGOS\WindowsFormsApplication testing\WindowsFormsApplication testing\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Windows 10 Pro\Desktop\AMIGOS\WindowsFormsApplication testing\WindowsFormsApplication testing\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\Windows 10 Pro\Desktop\AMIGOS\WindowsFormsApplication testing\WindowsFormsApplication testing\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Windows 10 Pro\Desktop\AMIGOS\WindowsFormsApplication testing\WindowsFormsApplication testing\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\Windows 10 Pro\Desktop\AMIGOS\WindowsFormsApplication testing\WindowsFormsApplication testing\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\Windows 10 Pro\Desktop\AMIGOS\WindowsFormsApplication testing\WindowsFormsApplication testing\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\Windows 10 Pro\Desktop\AMIGOS\WindowsFormsApplication testing\WindowsFormsApplication testing\bin\Debug\Bunifu.UI.WinForm.BunifuShadowPanel.dll
+C:\Users\Windows 10 Pro\Desktop\AMIGOS\WindowsFormsApplication testing\WindowsFormsApplication testing\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\Windows 10 Pro\Desktop\AMIGOS\WindowsFormsApplication testing\WindowsFormsApplication testing\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Windows 10 Pro\Desktop\AMIGOS\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.Form3.resources
+C:\Users\Windows 10 Pro\Desktop\AMIGOS\WindowsFormsApplication testing\WindowsFormsApplication testing\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\Windows 10 Pro\Desktop\AMIGOS\WindowsFormsApplication testing\WindowsFormsApplication testing\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Windows 10 Pro\Desktop\AMIGOS\WindowsFormsApplication testing\WindowsFormsApplication testing\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\Windows 10 Pro\Desktop\AMIGOS\WindowsFormsApplication testing\WindowsFormsApplication testing\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\Windows 10 Pro\Desktop\AMIGOS\WindowsFormsApplication testing\WindowsFormsApplication testing\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+C:\Users\Windows 10 Pro\Desktop\AMIGOS\WindowsFormsApplication testing\WindowsFormsApplication testing\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\Windows 10 Pro\Desktop\AMIGOS\WindowsFormsApplication testing\WindowsFormsApplication testing\bin\Debug\Bunifu.UI.WinForms.ToggleSwitch.dll
+C:\Users\Windows 10 Pro\Desktop\AMIGOS\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.Form4.resources
+C:\Users\Windows 10 Pro\Desktop\AMIGOS\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.Form5.resources
+C:\Users\Windows 10 Pro\Desktop\AMIGOS\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.Form10.resources
+C:\Users\Windows 10 Pro\Desktop\AMIGOS\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.Form6.resources
+C:\Users\Windows 10 Pro\Desktop\AMIGOS\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.Form7.resources
+C:\Users\Windows 10 Pro\Desktop\AMIGOS\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.Form8.resources
+C:\Users\Windows 10 Pro\Desktop\AMIGOS\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.Form9.resources
+C:\Users\Windows 10 Pro\Desktop\AMIGOS\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.Formmdi.resources
+C:\Users\Windows 10 Pro\Desktop\AMIGOS\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmlog.resources
+C:\Users\Windows 10 Pro\Desktop\AMIGOS\WindowsFormsApplication testing\WindowsFormsApplication testing\bin\Debug\Database2.mdf
+C:\Users\Windows 10 Pro\Desktop\AMIGOS\WindowsFormsApplication testing\WindowsFormsApplication testing\bin\Debug\Database2_log.ldf
+C:\Users\Windows 10 Pro\Desktop\AMIGOS\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmppo.resources
+C:\Users\Windows 10 Pro\Desktop\AMIGOS\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmchg.resources
+C:\Users\Windows 10 Pro\Desktop\AMIGOS\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.form17.resources
+C:\Users\Windows 10 Pro\Desktop\AMIGOS\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmnpo.resources
+C:\Users\Windows 10 Pro\Desktop\AMIGOS\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmspo.resources
+C:\Users\Windows 10 Pro\Desktop\AMIGOS\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmmdim.resources
+C:\Users\Windows 10 Pro\Desktop\AMIGOS\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmmdin.resources
+C:\Users\Windows 10 Pro\Desktop\AMIGOS\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmmdia.resources
+E:\Documents\Visual Studio 2013\Projects\WindowsFormsApplication testing\WindowsFormsApplication testing\bin\Debug\WindowsFormsApplication testing.exe.config
+E:\Documents\Visual Studio 2013\Projects\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication testing.exe
+E:\Documents\Visual Studio 2013\Projects\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication testing.pdb
+E:\Documents\Visual Studio 2013\Projects\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication testing.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2013\Projects\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmna.resources
+E:\Documents\Visual Studio 2013\Projects\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmlog.resources
+E:\Documents\Visual Studio 2013\Projects\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmmdim.resources
+E:\Documents\Visual Studio 2013\Projects\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmmdin.resources
+E:\Documents\Visual Studio 2013\Projects\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmppo.resources
+E:\Documents\Visual Studio 2013\Projects\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmchg.resources
+E:\Documents\Visual Studio 2013\Projects\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmnpo.resources
+E:\Documents\Visual Studio 2013\Projects\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmspo.resources
+E:\Documents\Visual Studio 2013\Projects\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.Properties.Resources.resources
+E:\Documents\Visual Studio 2013\Projects\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication testing.csproj.GenerateResource.Cache
+E:\Documents\Visual Studio 2013\Projects\WindowsFormsApplication testing\WindowsFormsApplication testing\bin\Debug\Database2.mdf
+E:\Documents\Visual Studio 2013\Projects\WindowsFormsApplication testing\WindowsFormsApplication testing\bin\Debug\Database2_log.ldf
+E:\Documents\Visual Studio 2013\Projects\WindowsFormsApplication testing\WindowsFormsApplication testing\bin\Debug\WindowsFormsApplication testing.exe
+E:\Documents\Visual Studio 2013\Projects\WindowsFormsApplication testing\WindowsFormsApplication testing\bin\Debug\WindowsFormsApplication testing.pdb
+E:\Documents\Visual Studio 2013\Projects\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmst.resources
+E:\Documents\Visual Studio 2013\Projects\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmstaff.resources
+E:\Documents\Visual Studio 2013\Projects\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmsp.resources
+E:\Documents\Visual Studio 2013\Projects\WindowsFormsApplication testing\WindowsFormsApplication testing\bin\Debug\WindowsFormsApplication testing.exe.manifest
+E:\Documents\Visual Studio 2013\Projects\WindowsFormsApplication testing\WindowsFormsApplication testing\bin\Debug\WindowsFormsApplication testing.application
+E:\Documents\Visual Studio 2013\Projects\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication testing.exe.manifest
+E:\Documents\Visual Studio 2013\Projects\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication testing.application
+E:\Documents\Visual Studio 2013\Projects\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmca.resources
+E:\Documents\Visual Studio 2013\Projects\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmsr.resources
+E:\Documents\Visual Studio 2013\Projects\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmipo.resources
+E:\Desktop\WindowsFormsApplication testing\WindowsFormsApplication testing\bin\Debug\WindowsFormsApplication testing.exe.config
+E:\Desktop\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication testing.exe
+E:\Desktop\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication testing.pdb
+E:\Desktop\WindowsFormsApplication testing\WindowsFormsApplication testing\bin\Debug\Database2.mdf
+E:\Desktop\WindowsFormsApplication testing\WindowsFormsApplication testing\bin\Debug\Database2_log.ldf
+E:\Desktop\WindowsFormsApplication testing\WindowsFormsApplication testing\bin\Debug\WindowsFormsApplication testing.exe.manifest
+E:\Desktop\WindowsFormsApplication testing\WindowsFormsApplication testing\bin\Debug\WindowsFormsApplication testing.application
+E:\Desktop\WindowsFormsApplication testing\WindowsFormsApplication testing\bin\Debug\WindowsFormsApplication testing.exe
+E:\Desktop\WindowsFormsApplication testing\WindowsFormsApplication testing\bin\Debug\WindowsFormsApplication testing.pdb
+E:\Desktop\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication testing.csprojResolveAssemblyReference.cache
+E:\Desktop\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmca.resources
+E:\Desktop\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmstaff.resources
+E:\Desktop\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmna.resources
+E:\Desktop\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmlog.resources
+E:\Desktop\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmmdim.resources
+E:\Desktop\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmmdin.resources
+E:\Desktop\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmst.resources
+E:\Desktop\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmipo.resources
+E:\Desktop\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmppo.resources
+E:\Desktop\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmchg.resources
+E:\Desktop\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmnpo.resources
+E:\Desktop\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmspo.resources
+E:\Desktop\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.Properties.Resources.resources
+E:\Desktop\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmsp.resources
+E:\Desktop\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmsr.resources
+E:\Desktop\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication testing.csproj.GenerateResource.Cache
+E:\Desktop\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication testing.exe.manifest
+E:\Desktop\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication testing.application
+E:\Documents\Visual Studio 2013\Projects\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmhelp.resources
+E:\Desktop\Project\WindowsFormsApplication testing\WindowsFormsApplication testing\bin\Debug\WindowsFormsApplication testing.exe.config
+E:\Desktop\Project\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication testing.exe
+E:\Desktop\Project\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication testing.pdb
+E:\Desktop\Project\WindowsFormsApplication testing\WindowsFormsApplication testing\bin\Debug\Database2.mdf
+E:\Desktop\Project\WindowsFormsApplication testing\WindowsFormsApplication testing\bin\Debug\Database2_log.ldf
+E:\Desktop\Project\WindowsFormsApplication testing\WindowsFormsApplication testing\bin\Debug\WindowsFormsApplication testing.exe.manifest
+E:\Desktop\Project\WindowsFormsApplication testing\WindowsFormsApplication testing\bin\Debug\WindowsFormsApplication testing.application
+E:\Desktop\Project\WindowsFormsApplication testing\WindowsFormsApplication testing\bin\Debug\WindowsFormsApplication testing.exe
+E:\Desktop\Project\WindowsFormsApplication testing\WindowsFormsApplication testing\bin\Debug\WindowsFormsApplication testing.pdb
+E:\Desktop\Project\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication testing.csprojResolveAssemblyReference.cache
+E:\Desktop\Project\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmca.resources
+E:\Desktop\Project\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmhelp.resources
+E:\Desktop\Project\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmstaff.resources
+E:\Desktop\Project\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmna.resources
+E:\Desktop\Project\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmlog.resources
+E:\Desktop\Project\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmmdim.resources
+E:\Desktop\Project\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmmdin.resources
+E:\Desktop\Project\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmst.resources
+E:\Desktop\Project\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmipo.resources
+E:\Desktop\Project\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmppo.resources
+E:\Desktop\Project\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmchg.resources
+E:\Desktop\Project\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmnpo.resources
+E:\Desktop\Project\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmspo.resources
+E:\Desktop\Project\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.Properties.Resources.resources
+E:\Desktop\Project\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmsp.resources
+E:\Desktop\Project\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmsr.resources
+E:\Desktop\Project\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication testing.csproj.GenerateResource.Cache
+E:\Desktop\Project\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication testing.exe.manifest
+E:\Desktop\Project\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication testing.application
+E:\Desktop\Amigos\WindowsFormsApplication testing\WindowsFormsApplication testing\bin\Debug\Database2.mdf
+E:\Desktop\Amigos\WindowsFormsApplication testing\WindowsFormsApplication testing\bin\Debug\Database2_log.ldf
+E:\Desktop\Amigos\WindowsFormsApplication testing\WindowsFormsApplication testing\bin\Debug\WindowsFormsApplication testing.exe.config
+E:\Desktop\Amigos\WindowsFormsApplication testing\WindowsFormsApplication testing\bin\Debug\WindowsFormsApplication testing.exe.manifest
+E:\Desktop\Amigos\WindowsFormsApplication testing\WindowsFormsApplication testing\bin\Debug\WindowsFormsApplication testing.application
+E:\Desktop\Amigos\WindowsFormsApplication testing\WindowsFormsApplication testing\bin\Debug\WindowsFormsApplication testing.exe
+E:\Desktop\Amigos\WindowsFormsApplication testing\WindowsFormsApplication testing\bin\Debug\WindowsFormsApplication testing.pdb
+E:\Desktop\Amigos\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication testing.csprojResolveAssemblyReference.cache
+E:\Desktop\Amigos\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmca.resources
+E:\Desktop\Amigos\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmhelp.resources
+E:\Desktop\Amigos\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmstaff.resources
+E:\Desktop\Amigos\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmna.resources
+E:\Desktop\Amigos\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmlog.resources
+E:\Desktop\Amigos\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmmdim.resources
+E:\Desktop\Amigos\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmmdin.resources
+E:\Desktop\Amigos\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmst.resources
+E:\Desktop\Amigos\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmipo.resources
+E:\Desktop\Amigos\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmppo.resources
+E:\Desktop\Amigos\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmchg.resources
+E:\Desktop\Amigos\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmnpo.resources
+E:\Desktop\Amigos\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmspo.resources
+E:\Desktop\Amigos\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.Properties.Resources.resources
+E:\Desktop\Amigos\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmsp.resources
+E:\Desktop\Amigos\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication_testing.frmsr.resources
+E:\Desktop\Amigos\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication testing.csproj.GenerateResource.Cache
+E:\Desktop\Amigos\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication testing.exe.manifest
+E:\Desktop\Amigos\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication testing.application
+E:\Desktop\Amigos\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication testing.exe
+E:\Desktop\Amigos\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication testing.pdb
+D:\Documents\Personal\Kavindu\Project\IT\Software\AMIGOS\WindowsFormsApplication testing\WindowsFormsApplication testing\bin\Debug\WindowsFormsApplication testing.exe.config
+D:\Documents\Personal\Kavindu\Project\IT\Software\AMIGOS\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication testing.exe
+D:\Documents\Personal\Kavindu\Project\IT\Software\AMIGOS\WindowsFormsApplication testing\WindowsFormsApplication testing\obj\Debug\WindowsFormsApplication testing.pdb
